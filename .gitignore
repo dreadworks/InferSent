@@ -1,6 +1,6 @@
 # SentEval data and .pyc files
 
-
+*.egg-info/
 
 # python
 __pycache__/
